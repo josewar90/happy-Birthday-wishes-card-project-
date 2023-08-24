@@ -204,3 +204,8 @@ footer{
 footer a{
  color: white;
 }
+
+p {
+    justify-content: end;
+    text-align: justify;
+}
